@@ -1,0 +1,29 @@
+{
+  "tpdevApp": {
+    "medecine": {
+      "home": {
+        "title": "Medecines",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Medecine",
+        "createOrEditLabel": "Créer ou éditer un Medecine",
+        "notFound": "Aucun Medecine trouvé"
+      },
+      "created": "Un nouveau Medecine a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Medecine avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Medecine avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Medecine {{ id }} ?"
+      },
+      "detail": {
+        "title": "Medecine"
+      },
+      "id": "ID",
+      "nom": "Nom",
+      "prenom": "Prenom",
+      "email": "Email",
+      "telephone": "Telephone",
+      "specialite": "Specialite",
+      "rendezVous": "Rendez Vous"
+    }
+  }
+}
