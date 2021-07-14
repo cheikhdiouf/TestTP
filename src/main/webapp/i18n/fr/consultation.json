@@ -1,0 +1,27 @@
+{
+  "tpdevApp": {
+    "consultation": {
+      "home": {
+        "title": "Consultations",
+        "refreshListLabel": "Actualiser la liste",
+        "createLabel": "Créer un nouveau Consultation",
+        "createOrEditLabel": "Créer ou éditer un Consultation",
+        "notFound": "Aucun Consultation trouvé"
+      },
+      "created": "Un nouveau Consultation a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Consultation avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Consultation avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Consultation {{ id }} ?"
+      },
+      "detail": {
+        "title": "Consultation"
+      },
+      "id": "ID",
+      "dateComsultation": "Date Comsultation",
+      "prixConsultation": "Prix Consultation",
+      "rapportConsultation": "Rapport Consultation",
+      "rendezVous": "Rendez Vous"
+    }
+  }
+}
